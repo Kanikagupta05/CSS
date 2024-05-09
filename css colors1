@@ -1,0 +1,18 @@
+
+https://github.com/Kanikagupta05/CSS.git
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+</head>
+<body>
+        <h1 style="color:Tomato;">Lorem, ipsum.</h1>
+        <p style="color:rgb(62, 167, 28);">Lorem ipsum...</p>
+        <p style="color:rgb(26, 37, 154);">Lorem, ipsum dolor.</p>
+        <p style="color:#3cb371">Lorem, ipsum dolor.</p>
+        <p style="color:hsl(166, 56%, 37%)">Lorem, ipsum dolor.</p>
+        
+
+</html>
