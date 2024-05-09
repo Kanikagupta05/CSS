@@ -1,0 +1,40 @@
+https://github.com/Kanikagupta05/CSS.git
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+                p{
+                        text-align: center;
+                        color:red;
+                }
+                #para1{
+                        text-align: center;
+                        color:red;
+                }
+                .para1{
+                        text-align: center;
+                        color:red;
+                }
+                *{
+                        text-align: center;
+                        color:pink;
+                }
+                p,h1{
+
+                        text-align: center;
+                        color:red;
+                }
+
+        </style>
+</head>
+<body>
+        <h1>Lorem, ipsum.</h1>
+        <h2>Lorem, ipsum dolor.</h2>
+        <p>Lorem ipsum dolor sit amet.</p>
+        <p id="para1">Lorem ipsum dolor sit amet.</p>
+        <p class="para1">Lorem ipsum dolor sit amet.</p>        
+</body>
+</html>
