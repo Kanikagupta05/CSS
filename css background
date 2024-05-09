@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+        .first{
+            background-color:blanchedalmond;
+            opacity:0.7;
+        
+        }
+        /* body{
+                background-image: url("first.jpeg");
+                background-repeat: repeat-x;
+        }
+        body{
+                background-image: url("first.jpeg");
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+        } */
+        /* body{
+                background-image: url("first.jpeg");
+                background-repeat: no-repeat;
+                background-position: top;
+                background-attachment: fixed;
+        } */
+        body{
+                background: rgb(110, 110, 145) url("first.jpeg") no-repeat right top;
+        }
+
+        </style>
+</head>
+<body>
+
+        <p class="first">Lorem, ipsum.</p>
+</body>
+</html>
