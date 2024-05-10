@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        div {
+            background-color: lightgrey;
+            width: 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, quibusdam rerum tempora harum tenetur aliquam
+        blanditiis commodi rem minima sunt illo in officiis nobis, et consequuntur ullam, atque eum praesentium expedita
+        recusandae quisquam. Iure, repudiandae quos qui possimus ex, officia nihil est corporis saepe eos non. Dolorum
+        veritatis culpa libero. Voluptates repudiandae maxime distinctio a enim modi nemo, ab eveniet!</div>
+
+</body>
+
+</html>
